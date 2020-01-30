@@ -1,5 +1,5 @@
-def animals = [ "cat", "mouse", "dog"]
-  animals.include("cat")
+def using_include(array, element)
+  
 
 end
 
